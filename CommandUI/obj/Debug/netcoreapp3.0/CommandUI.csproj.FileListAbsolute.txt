@@ -1,0 +1,12 @@
+C:\Users\Marcin\Desktop\programowanie\repos\Command\CommandUI\obj\Debug\netcoreapp3.0\CommandUI.csprojAssemblyReference.cache
+C:\Users\Marcin\Desktop\programowanie\repos\Command\CommandUI\obj\Debug\netcoreapp3.0\CommandUI.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\Desktop\programowanie\repos\Command\CommandUI\obj\Debug\netcoreapp3.0\CommandUI.AssemblyInfoInputs.cache
+C:\Users\Marcin\Desktop\programowanie\repos\Command\CommandUI\obj\Debug\netcoreapp3.0\CommandUI.AssemblyInfo.cs
+C:\Users\Marcin\Desktop\programowanie\repos\Command\CommandUI\bin\Debug\netcoreapp3.0\CommandUI.exe
+C:\Users\Marcin\Desktop\programowanie\repos\Command\CommandUI\bin\Debug\netcoreapp3.0\CommandUI.deps.json
+C:\Users\Marcin\Desktop\programowanie\repos\Command\CommandUI\bin\Debug\netcoreapp3.0\CommandUI.runtimeconfig.json
+C:\Users\Marcin\Desktop\programowanie\repos\Command\CommandUI\bin\Debug\netcoreapp3.0\CommandUI.runtimeconfig.dev.json
+C:\Users\Marcin\Desktop\programowanie\repos\Command\CommandUI\bin\Debug\netcoreapp3.0\CommandUI.dll
+C:\Users\Marcin\Desktop\programowanie\repos\Command\CommandUI\bin\Debug\netcoreapp3.0\CommandUI.pdb
+C:\Users\Marcin\Desktop\programowanie\repos\Command\CommandUI\obj\Debug\netcoreapp3.0\CommandUI.dll
+C:\Users\Marcin\Desktop\programowanie\repos\Command\CommandUI\obj\Debug\netcoreapp3.0\CommandUI.pdb

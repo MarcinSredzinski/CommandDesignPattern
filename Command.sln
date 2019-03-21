@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28711.60
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandUI", "CommandUI\CommandUI.csproj", "{89EB665C-6DB5-48E7-BF39-171B849DD074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89EB665C-6DB5-48E7-BF39-171B849DD074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EB665C-6DB5-48E7-BF39-171B849DD074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EB665C-6DB5-48E7-BF39-171B849DD074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EB665C-6DB5-48E7-BF39-171B849DD074}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C050A62E-DF3F-4F60-AA45-ECCF768BD664}
+	EndGlobalSection
+EndGlobal
